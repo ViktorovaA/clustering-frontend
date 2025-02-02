@@ -1,22 +1,3 @@
-// // types.ts
-// export interface Point {
-//     id: number; // Убедитесь, что id обязателен
-//     x: number;
-//     y: number;
-//     cluster?: number;
-//     isBoundary?: boolean;
-//   }
-
-
-// export interface Point {
-//     id: number;
-//     x: number;
-//     y: number;
-//     cluster?: number;
-//     isBoundary?: boolean;
-//   }
-
-
 export interface Point {
     id: number;
     x: number;
